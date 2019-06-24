@@ -1,7 +1,7 @@
 ### PyramidalTemporalPooling
 Also named as Multi-Layer Temporal Pooling
 
-Created by <a href="https://github.com/zlw9161">Liwen Zhang</a> from Speech Lab @ Harbin Institute of Technology, Harbin, China.
+Created by <a href="https://github.com/zlw9161">Liwen Zhang</a> and Jiqing Han from Speech Lab @ Harbin Institute of Technology, Harbin, China.
 
 ### Citation
 If you find our work useful in your research, please cite:
