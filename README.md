@@ -36,7 +36,20 @@ https://bitbucket.org/naoya1/aenet_feat/src/master/
 http://dcase.community/challenge2018/task-acoustic-scene-classification#subtask-a
 
 ### Code Description
-to be finished
+* ptp/defineNetwork.m<br />
+This function is used for defining the structure of PTP network.
+* ptp/passNetwork.m<br />
+Feed forward pass of the defined PTP network.
+* ptp/genRepresentation.m<br />
+Generate audio representations with PTP network.
+* ptp/getNonLinearity.m<br />
+Non-linear feature mapping for the input feature before temporal encoding.
+* ptp/liblinearsvr.m<br />
+Linear support vector regression based temporal encoding.
+* ptp/normalizeL2.m<br />
+Feature normalization.
+* ptp/rootExpandKernelMap.m<br />
+PosNeg Expansion based Hellinger kernel.
 
 ### License
 Our code is released under our License (see LICENSE file for details).
