@@ -56,5 +56,5 @@ Our code is released under our License (see LICENSE file for details).
 
 ### Related Projects
 * [TASLP 2017 paper - AENet: Learning Deep Audio Features for Video Analysis](http://arxiv.org/pdf/1701.00599) by Naoya Takahashi et al.
-* [TPAMI 2016 paper - Rank Pooling for Action Recognition](http://users.cecs.anu.edu.au/~basura/papers/PAMI2016Fernando.pdf) by Fernando Basura et al.
+* [Interspeech 2018 paper - Unsupervised Temporal Feature Learning Based on Sparse Coding Embedded BoAW](https://github.com/zlw9161/VanillaTemporalPooling) by Liwen Zhang, Jiqing Han et al.
 
