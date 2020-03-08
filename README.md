@@ -6,12 +6,12 @@ Created by <a href="https://github.com/zlw9161">Liwen Zhang</a> and Jiqing Han f
 ### Citation
 If you find our work useful in your research, please cite:
 
-        @article{liu:2019:cpnet,
-          title={Multi-Layer Temporal Pooling based on CNN for Acoustic Scene Clas-sification},
-          author={Liwen Zhang, Jiqing Han and Shiwen Deng},
-          technical report={DCASE},
-          year={2018}
-          link={}
+        @article{Zhang:2020:dm-ptp,
+          title={Pyramidal Temporal Pooling With Discriminative Mapping for Audio Classification},
+          author={Liwen Zhang, Ziqiang Shi and Jiqing Han},
+          Journal={IEEE Trans. Audio Speech and Language Proc.},
+          year={2020}
+          link={https://ieeexplore.ieee.org/document/8960462}
         }
 
 ### Abstract
